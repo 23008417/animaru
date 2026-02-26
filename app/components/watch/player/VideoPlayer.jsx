@@ -162,7 +162,7 @@ export default function VideoPlayer({ id, server, category, anilistId }) {
         }
 
         setSourceData(data);
-        setRomajiTitle(data.title || 'SemicolonAnime Player');
+        setRomajiTitle(data.title || 'ANIMARU');
 
         const uid = Cookies.get('uid');
         if (uid && anilistId) {
