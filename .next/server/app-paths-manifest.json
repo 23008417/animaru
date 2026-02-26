@@ -1,0 +1,9 @@
+{
+  "/api/onair/route": "app/api/onair/route.js",
+  "/api/consumet/[...path]/route": "app/api/consumet/[...path]/route.js",
+  "/page": "app/page.js",
+  "/anime/[id]/page": "app/anime/[id]/page.js",
+  "/watch/[id]/page": "app/watch/[id]/page.js",
+  "/search/page": "app/search/page.js",
+  "/about/page": "app/about/page.js"
+}
