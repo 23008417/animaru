@@ -20,7 +20,7 @@ export const metadata = {
   manifest: "/manifest.json",
   icons: {
     icon: "/anna-s.ico",
-    apple: "/icons/icon-192x192.png",
+    apple: "/anna-s.ico",
   },
   appleWebApp: {
     capable: true,
