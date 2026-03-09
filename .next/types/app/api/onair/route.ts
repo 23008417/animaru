@@ -1,4 +1,4 @@
-// File: C:\Users\23008417\Documents\GitHub\AniTeams\app\api\onair\route.js
+// File: C:\Users\23008417\Documents\GitHub\animaru\app\api\onair\route.js
 import * as entry from '../../../../../app/api/onair/route.js'
 import type { NextRequest } from 'next/server.js'
 

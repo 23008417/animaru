@@ -1,4 +1,4 @@
-// File: C:\Users\23008417\Documents\GitHub\AniTeams\app\watch\[id]\page.js
+// File: C:\Users\23008417\Documents\GitHub\animaru\app\watch\[id]\page.js
 import * as entry from '../../../../../app/watch/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

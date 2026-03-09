@@ -1,4 +1,4 @@
-// File: C:\Users\23008417\Documents\GitHub\AniTeams\app\layout.js
+// File: C:\Users\23008417\Documents\GitHub\animaru\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

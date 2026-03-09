@@ -1,4 +1,4 @@
-// File: C:\Users\23008417\Documents\GitHub\AniTeams\app\api\provider\aniwatch\player\route.js
+// File: C:\Users\23008417\Documents\GitHub\animaru\app\api\provider\aniwatch\player\route.js
 import * as entry from '../../../../../../../app/api/provider/aniwatch/player/route.js'
 import type { NextRequest } from 'next/server.js'
 

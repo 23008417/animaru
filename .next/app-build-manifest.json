@@ -33,11 +33,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/api/provider/aniwatch/episodes/route.js"
     ],
-    "/api/provider/vidsrc/episodes/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/provider/vidsrc/episodes/route.js"
-    ],
     "/watch/[id]/error": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -54,11 +49,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/api/server/route.js"
     ],
-    "/api/comments/[id]/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/comments/[id]/route.js"
-    ],
     "/api/provider/aniwatch/player/route": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -68,17 +58,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/api/stream/proxy/route.js"
-    ],
-    "/search/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/search/page.css",
-      "static/chunks/app/search/page.js"
-    ],
-    "/about/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/page.js"
     ]
   }
 }

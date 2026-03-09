@@ -1,9 +1,11 @@
 {
-  "/api/onair/route": "app/api/onair/route.js",
   "/api/consumet/[...path]/route": "app/api/consumet/[...path]/route.js",
-  "/page": "app/page.js",
-  "/anime/[id]/page": "app/anime/[id]/page.js",
+  "/api/provider/aniwatch/episodes/route": "app/api/provider/aniwatch/episodes/route.js",
+  "/api/server/route": "app/api/server/route.js",
+  "/api/stream/proxy/route": "app/api/stream/proxy/route.js",
+  "/api/onair/route": "app/api/onair/route.js",
+  "/api/provider/aniwatch/player/route": "app/api/provider/aniwatch/player/route.js",
   "/watch/[id]/page": "app/watch/[id]/page.js",
-  "/search/page": "app/search/page.js",
-  "/about/page": "app/about/page.js"
+  "/page": "app/page.js",
+  "/anime/[id]/page": "app/anime/[id]/page.js"
 }
